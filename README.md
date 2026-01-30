@@ -20,17 +20,16 @@ La predicción de churn es una tarea fundamental para negocios con clientes recu
 └── p11_churn_clients_bank_prediction_model_evaluation.ipynb
 ```
 ---
-# 📊 Modelos Evaluados
+## 📊 Modelos Evaluados
 
 Dentro del notebook se entrenan y comparan distintos modelos clásicos de clasificación, como:
 
 - **Regresión Logística**  
 - **Árboles de Decisión / Random Forest**  
-- *(Puedes agregar más según lo que hayas probado)*  
 
 ---
 
-# 📈 Métricas de Evaluación
+## 📈 Métricas de Evaluación
 
 Para cada modelo se generan las siguientes métricas:
 
@@ -45,7 +44,7 @@ Estos resultados ayudan a decidir cuál es el mejor modelo para este problema.
 
 ---
 
-# 📌 Conclusiones (resumen)
+## 📌 Conclusiones (resumen)
 
 ✔️ Se implementaron y evaluaron varios modelos de clasificación  
 ✔️ Se analizaron métricas clave para comparar su desempeño  
@@ -53,7 +52,7 @@ Estos resultados ayudan a decidir cuál es el mejor modelo para este problema.
 
 ---
 
-# 💡 Posibles Mejoras
+## 💡 Posibles Mejoras
 
 Si quieres extender el proyecto, podrías considerar:
 
